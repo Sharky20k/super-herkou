@@ -1,6 +1,6 @@
 const Discord = require('discord.js')
 
-class dChannelCommand extends commando.Command
+class dChannelCommand extends Discord.Command
 {
     constructor(client)
     {
