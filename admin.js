@@ -1,4 +1,4 @@
-const commando = require(`discord.js-commando`)
+const Discord = require('discord.js')
 
 class dChannelCommand extends commando.Command
 {
